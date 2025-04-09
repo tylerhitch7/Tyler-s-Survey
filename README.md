@@ -5,7 +5,7 @@ Tyler Hitch
     
 </head>
 <body>
-    <a style="font-size: 50px;" href="https://forms.office.com/r/HCPeRBqbeT">My ethical Aspects survey</a>
+    <a style="font-size: 50px;" href="https://forms.office.com/r/HCPeRBqbeT">Video games</a>
 <h2>Hi, My name is Tyler Hitch and i posted this in the GitHub website.</h2>
 </body>
 </html>
