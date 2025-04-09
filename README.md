@@ -1,4 +1,3 @@
-# Tyler's-Survey
 Tyler Hitch
 <!DOCTYPE html>
 <html lang="en">
